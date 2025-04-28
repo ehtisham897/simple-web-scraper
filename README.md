@@ -2,6 +2,9 @@
 
 This project is a basic web scraping script developed in Python.  
 It extracts data from a website and saves it into an Excel (.xlsx) file.
+Note: 
+scrape_quotes.py is python script AND
+quotes.xlsx is output file
 
 # Features
 1. Scrape quotes and authors from a public website
